@@ -22,7 +22,7 @@ Environment variables are defined in a .env file.
 ## Installation
 The steps outline will provide a walkthrough on how to install the app on your local machine
 
-1. Clone this repository `git clone https://github.com/stephentk/wallet-api.git
+1. Clone this repository `git clone https://github.com/stephentk/Blog-MongoDB-.git
 2. From the terminal, change directory to wallet app folder `cd wallet
 3. Run `npm install` from your terminal in your project directory to install all dependencies 
 4. Then run the app with the command `npm run watch`
