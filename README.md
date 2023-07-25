@@ -1,5 +1,4 @@
 # Blog-MongoDB-
-# Wallet-api
 ## Features
 Based on project requirements, the following features are covered for this endpoint:
 
